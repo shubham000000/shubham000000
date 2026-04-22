@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>IT Researcher | Machine Learning Enthusiast | Python Developer</strong>
+  <strong>IT Researcher | Machine Learning Enthusiast | Full-Stack Developer</strong>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 I am an **IT Researcher** based in **Seoul, South Korea**, currently focused on bridging the gap between complex data and actionable insights. With a solid foundation in computer security and a passion for data science, I build tools that make data more accessible and intelligent.
 
-- 🔭 **Current Focus:** Developing interactive dashboards and predictive models for healthcare data.
+- 🔭 **Current Focus:** Training predictive models with Scikit-learn and developing interactive, full-stack dashboards for healthcare data.
 - 🎓 **Education:** Master’s in Computer and Information Security from **Sejong University, Seoul**.
 - 💼 **Professional:** Researcher at **RetiMark**, working on data-driven solutions since August 2023.
 - 🌍 **Languages:** Proficient in English (B2) and navigating life in Korea (TOPIK 2).
@@ -28,6 +28,9 @@ I am an **IT Researcher** based in **Seoul, South Korea**, currently focused on 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -37,9 +40,9 @@ I am an **IT Researcher** based in **Seoul, South Korea**, currently focused on 
 ---
 
 ### 📊 Featured Project: CSVJ Dashboard
-I recently developed an **Interactive Patient Demographics Dashboard** that handles over 33,000 records. It’s built with a Python-based web framework and deployed for real-time data visualization.
+I recently developed an **Interactive Patient Demographics Dashboard** that handles over 33,000 records. The frontend is built using **React** for a dynamic user experience, connected to a **Node.js** API backend, and uses **MySQL** for robust database storage.
 - **Key Features:** Dynamic filtering, EMR data analysis, and seamless UI.
-- **Tech:** Python, Flask/FastAPI, Netlify.
+- **Tech:** React, Node.js, MySQL, Netlify.
 - 🔗 [Check it out here](https://csvjdashboard.netlify.app/)
 
 ---
