@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am an **IT Researcher** based in **Seoul, South Korea**, currently focused on bridging the gap between complex data and actionable insights. With a solid foundation in computer security and a passion for data science, I build tools that make data more accessible and intelligent.
 
