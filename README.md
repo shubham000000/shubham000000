@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shubham Borghare! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=shubham000000&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <p align="center">
@@ -56,8 +56,8 @@ I recently developed an **Interactive Patient Demographics Dashboard** that hand
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Borghare" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Email" height="30" width="30" /></a>
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/shubhamborghare/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Borghare" height="30" width="40" /></a>
+<a href="mailto:borghareshubham510@example.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Email" height="30" width="30" /></a>
 </p>
 
 <p align="center"> 
