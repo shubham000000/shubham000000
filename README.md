@@ -47,17 +47,21 @@ I recently developed an **Interactive Patient Demographics Dashboard** that hand
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham000000&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham000000&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/shubhamborghare/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Borghare" height="30" width="40" /></a>
-<a href="mailto:borghareshubham510@example.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Email" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shubhamborghare/" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:borghareshubham510@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
 <p align="center"> 
