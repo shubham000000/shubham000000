@@ -41,11 +41,6 @@ I am an **IT Researcher** based in **Seoul, South Korea**, currently focused on 
 
 ### 📊 Featured Projects
 
-**Interactive Patient Demographics Dashboard (CSVJ)** I recently developed a comprehensive dashboard that handles over 33,000 patient records. The frontend is built using **React** for a dynamic user experience, connected to a **Node.js** API backend, and uses **MySQL** for robust database storage.
-- **Key Features:** Dynamic filtering, EMR data analysis, and seamless UI.
-- **Tech:** React, Node.js, MySQL, Netlify.
-- 🔗 [Check it out here](https://csvjdashboard.netlify.app/)
-
 **Modern Developer Portfolio** A sleek, responsive, and highly interactive personal portfolio designed to showcase my professional journey, research publications, and technical projects. Built with a modern dark-theme UI featuring glassmorphism and smooth animations.
 - **Key Features:** Component-driven architecture, responsive CSS grid layouts, and dynamic data mapping.
 - **Tech:** React, Vite, Modern CSS, React Icons.
